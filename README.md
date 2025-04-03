@@ -114,17 +114,4 @@ sudo apt update && sudo apt install -y \
 
 ---
 
-## Contributors
-- **Your Name** – [GitHub](https://github.com/yourprofile)
-- **Team Members** – [GitHub](https://github.com/teamprofile)
-
----
-
-## License
-This project is licensed under the **MIT License**. See `LICENSE` for details.
-
----
-
-## Contact
-For any inquiries, reach out via [your.email@example.com](mailto:your.email@example.com).
 
